@@ -1,0 +1,201 @@
+pet_ID,pet_name,species,breed,age_years,gender,color,arrival_date,adopted,adoption_date,adopter_id,adopter_name,adopter_age,adopter_city,adopter_previous_pets\
+P0001,Sandra,Dog,Yorkshire Terrier,2,Female,White,10/10/24,TRUE,3/11/25,A0001,Megan Rogers,56,Mcgeestad,1\
+P0002,Brian,Cat,Tonkinese,1,Female,Golden,9/9/23,TRUE,2/10/24,A0002,Jonathan Hawkins,18,Geneshire,2\
+P0003,Timothy,Bird,Amazon Parrot,4,Male,Spotted,10/3/23,FALSE,10/17/23,N/A,N/A,-1,N/A,0\
+P0004,Karl,Dog,German Shepherd,1,Female,White,7/28/24,TRUE,8/12/24,A0004,Natalie Rivera,51,North Richard,3\
+P0005,Sarah,Rabbit,Dutch,1,Female,Spotted,2/21/24,FALSE,2/26/24,N/A,N/A,-1,N/A,0\
+P0006,Dawn,Dog,Labrador Retriever,15,Male,Spotted,6/14/25,FALSE,6/17/25,N/A,N/A,-1,N/A,0\
+P0007,Chad,Dog,Siberian Husky,15,Female,Mixed,4/3/25,FALSE,4/21/25,N/A,N/A,-1,N/A,0\
+P0008,Jeanne,Hamster,Campbell's Dwarf,4,Female,Spotted,6/17/24,TRUE,8/30/24,A0008,Joyce Garza,74,Port Sarachester,0\
+P0009,Ryan,Cat,Abyssinian,11,Female,Mixed,9/8/23,FALSE,9/25/23,N/A,N/A,-1,N/A,0\
+P0010,Richard,Dog,French Bulldog,1,Male,Brown,1/6/25,FALSE,2/3/25,N/A,N/A,-1,N/A,0\
+P0011,Charles,Hamster,Chinese,7,Male,Grey,12/25/24,FALSE,1/11/25,N/A,N/A,-1,N/A,0\
+P0012,James,Cat,Bengal,12,Female,White,6/12/24,FALSE,6/15/24,N/A,N/A,-1,N/A,0\
+P0013,Erika,Cat,Bengal,13,Male,Golden,5/4/25,FALSE,5/25/25,N/A,N/A,-1,N/A,0\
+P0014,Robin,Rabbit,Dutch,13,Female,Black,9/14/23,TRUE,2/13/24,A0014,Philip Ibarra,63,New Rachelview,2\
+P0015,Jennifer,Rabbit,Netherland Dwarf,6,Male,Mixed,6/4/24,FALSE,7/3/24,N/A,N/A,-1,N/A,0\
+P0016,Robert,Rabbit,Silver Marten,1,Female,Black,7/3/24,TRUE,8/15/24,A0016,Emily Fernandez,42,Lake Jonathan,0\
+P0017,Tamara,Hamster,Roborovski,1,Male,Brown,1/19/24,TRUE,6/2/24,A0017,Mr. Evan Smith,24,Port Timothy,3\
+P0018,Kayla,Cat,Maine Coon,4,Female,Golden,4/2/24,TRUE,6/29/24,A0018,Jeffery Zamora,49,Marychester,3\
+P0019,Courtney,Bird,Conure,9,Male,White,6/23/24,TRUE,10/10/24,A0019,Kathy Cox,62,Joyton,2\
+P0020,Craig,Hamster,Syrian,12,Female,Grey,7/25/24,TRUE,11/13/24,A0020,Jody Gutierrez,72,Camposton,0\
+P0021,David,Cat,Persian,5,Female,Mixed,5/3/25,FALSE,5/25/25,N/A,N/A,-1,N/A,0\
+P0022,Andrea,Cat,Norwegian Forest Cat,15,Male,Grey,10/18/23,TRUE,3/31/24,A0022,Daniel Nelson,42,West Johnfurt,0\
+P0023,Brian,Hamster,Winter White,5,Female,Brown,12/5/24,FALSE,12/11/24,N/A,N/A,-1,N/A,0\
+P0024,Alyssa,Cat,Maine Coon,8,Male,Golden,8/21/23,TRUE,8/25/23,A0024,Rodney White,26,Millerside,4\
+P0025,Brian,Bird,Canary,5,Male,Black,12/28/23,TRUE,4/3/24,A0025,William Wiley,46,Lake Melvinmouth,0\
+P0026,Pamela,Rabbit,Dutch,12,Male,Spotted,6/14/24,FALSE,7/6/24,N/A,N/A,-1,N/A,0\
+P0027,Robin,Cat,Oriental Shorthair,9,Female,Golden,4/8/25,TRUE,6/18/25,A0027,William White,28,Andreaview,5\
+P0028,Allison,Hamster,Dwarf Campbell,15,Female,Grey,5/6/24,FALSE,6/1/24,N/A,N/A,-1,N/A,0\
+P0029,Johnny,Cat,Maine Coon,15,Female,White,5/24/25,FALSE,5/25/25,N/A,N/A,-1,N/A,0\
+P0030,Lisa,Hamster,European Hamster,13,Male,Golden,3/18/24,FALSE,3/23/24,N/A,N/A,-1,N/A,0\
+P0031,Andrea,Hamster,Syrian,9,Male,Spotted,11/1/24,TRUE,11/27/24,A0031,Jesse Castro,63,Ramoston,0\
+P0032,Emily,Cat,Sphynx,14,Male,Spotted,3/7/24,TRUE,5/6/24,A0032,Steven Acevedo,33,Nathanport,5\
+P0033,Ashley,Dog,Boxer,5,Male,White,2/14/25,TRUE,5/15/25,A0033,Theresa Shaw,57,East Kellyburgh,3\
+P0034,Maureen,Dog,Yorkshire Terrier,14,Female,White,9/2/23,TRUE,12/11/23,A0034,Alyssa Brown,45,Stevenville,0\
+P0035,Miranda,Hamster,Russian Dwarf,10,Female,Spotted,2/3/24,TRUE,2/4/24,A0035,Bruce Holland,35,Browntown,5\
+P0036,Denise,Cat,Oriental Shorthair,3,Male,Brown,7/7/24,FALSE,7/30/24,N/A,N/A,-1,N/A,0\
+P0037,Evelyn,Bird,Amazon Parrot,1,Male,Golden,11/28/24,FALSE,12/10/24,N/A,N/A,-1,N/A,0\
+P0038,Anthony,Bird,Parakeet,9,Female,Spotted,10/18/23,TRUE,4/15/24,A0038,Scott Rivera,33,Port Tiffanyland,5\
+P0039,Stephanie,Hamster,Roborovski,15,Male,Grey,3/23/25,FALSE,4/15/25,N/A,N/A,-1,N/A,0\
+P0040,Christina,Dog,Great Dane,3,Male,White,3/27/25,FALSE,4/18/25,N/A,N/A,-1,N/A,0\
+P0041,Debra,Dog,Siberian Husky,7,Female,Spotted,3/13/24,FALSE,3/13/24,N/A,N/A,-1,N/A,0\
+P0042,Nicholas,Hamster,Korean,8,Female,Spotted,2/23/24,TRUE,5/18/24,A0042,Katherine Montgomery,56,Hughesburgh,0\
+P0043,Jasmine,Dog,Siberian Husky,6,Female,White,10/3/24,TRUE,1/24/25,A0043,Brian Johnston,71,Kennedyfurt,5\
+P0044,Daniel,Bird,Conure,10,Female,Brown,6/5/24,FALSE,6/20/24,N/A,N/A,-1,N/A,0\
+P0045,James,Hamster,Syrian,5,Male,Brown,11/21/24,FALSE,12/1/24,N/A,N/A,-1,N/A,0\
+P0046,Donna,Cat,Russian Blue,8,Male,Black,12/10/23,TRUE,5/20/24,A0046,Lindsay Preston,60,Lake John,4\
+P0047,Timothy,Bird,Macaw,7,Male,Grey,11/16/23,TRUE,3/28/24,A0047,Joan Smith,27,Pughbury,4\
+P0048,Lisa,Dog,Beagle,13,Female,Mixed,1/7/25,TRUE,1/31/25,A0048,Jessica Burgess,35,Lake Christopherfurt,5\
+P0049,Frank,Dog,German Shepherd,7,Male,Brown,4/3/25,FALSE,4/21/25,N/A,N/A,-1,N/A,0\
+P0050,Stephen,Hamster,Russian Dwarf,3,Male,White,11/17/24,FALSE,12/1/24,N/A,N/A,-1,N/A,0\
+P0051,Walter,Cat,Persian,6,Female,Golden,8/20/24,TRUE,1/15/25,A0051,Jacob West,22,Andersonton,3\
+P0052,Kelly,Hamster,Chinese,15,Female,Brown,8/2/23,FALSE,8/22/23,N/A,N/A,-1,N/A,0\
+P0053,Tom,Bird,African Grey Parrot,7,Female,Spotted,4/30/25,TRUE,5/29/25,A0053,Jacob Copeland,63,East Amandaside,2\
+P0054,Michelle,Hamster,Winter White,4,Female,Black,11/27/24,TRUE,12/1/24,A0054,David Bond,75,Port Christianberg,2\
+P0055,Jill,Dog,Shih Tzu,4,Female,Spotted,5/6/25,TRUE,5/19/25,A0055,Madeline Smith,24,Williamville,3\
+P0056,Adrienne,Hamster,European Hamster,1,Female,Grey,7/3/23,TRUE,8/10/23,A0056,Debra Santiago,19,Washingtonshire,2\
+P0057,Richard,Bird,Macaw,11,Male,Brown,4/23/25,TRUE,6/10/25,A0057,Sabrina Lawson,46,Pattonville,4\
+P0058,John,Rabbit,Mini Rex,6,Male,Black,10/28/23,TRUE,12/7/23,A0058,Richard Wallace,28,North Philipchester,5\
+P0059,Daniel,Hamster,Dwarf Campbell,11,Male,White,5/18/25,FALSE,5/31/25,N/A,N/A,-1,N/A,0\
+P0060,Christopher,Hamster,Korean,13,Male,Spotted,11/27/23,TRUE,1/30/24,A0060,James Wallace,66,East Kenneth,3\
+P0061,Joseph,Bird,Conure,9,Male,Spotted,6/13/25,TRUE,6/18/25,A0061,Angela Harmon,64,South Brent,3\
+P0062,David,Bird,Cockatoo,2,Male,Spotted,7/6/24,TRUE,9/21/24,A0062,Tammy Mason,41,New James,1\
+P0063,Robert,Hamster,Korean,13,Male,Brown,1/16/24,TRUE,4/28/24,A0063,Brad Carney,73,North Nicole,3\
+P0064,John,Dog,Boxer,8,Female,Golden,11/22/24,TRUE,1/15/25,A0064,Mr. David Brock,60,Ashleyborough,2\
+P0065,Nathan,Bird,Cockatiel,1,Male,Golden,6/13/25,TRUE,6/18/25,A0065,Marie Sanchez,64,Hallburgh,3\
+P0066,Alicia,Cat,British Shorthair,4,Female,Black,6/19/24,TRUE,8/25/24,A0066,Randall Pittman,36,North Joanne,4\
+P0067,Jeffrey,Bird,Amazon Parrot,13,Female,Black,9/7/24,TRUE,10/26/24,A0067,Phillip Bailey,55,Lake Charles,0\
+P0068,Evelyn,Bird,Conure,14,Female,Brown,4/24/25,FALSE,5/6/25,N/A,N/A,-1,N/A,0\
+P0069,Roberta,Cat,Bengal,7,Female,White,4/9/24,TRUE,4/29/24,A0069,Lindsey Walker,22,South Nicole,3\
+P0070,Linda,Bird,Macaw,14,Female,Golden,7/19/24,TRUE,1/11/25,A0070,Laura Craig,53,Lake Lisatown,3\
+P0071,Gary,Bird,Budgerigar,13,Male,Mixed,5/31/25,TRUE,6/18/25,A0071,Mrs. Amy Thompson,73,Samanthaview,4\
+P0072,Jeremy,Hamster,Syrian,15,Female,White,6/5/25,TRUE,6/18/25,A0072,Bonnie Macdonald,56,Jenniferbury,0\
+P0073,Samantha,Rabbit,Polish,4,Female,Mixed,5/20/25,FALSE,5/22/25,N/A,N/A,-1,N/A,0\
+P0074,Brian,Cat,Devon Rex,13,Female,White,4/6/25,TRUE,6/18/25,A0074,Daniel Galvan,29,West Maryburgh,1\
+P0075,Alyssa,Cat,Siamese,1,Male,Grey,4/14/24,FALSE,5/2/24,N/A,N/A,-1,N/A,0\
+P0076,Jacqueline,Hamster,Campbell's Dwarf,14,Male,Golden,10/15/23,FALSE,10/31/23,N/A,N/A,-1,N/A,0\
+P0077,Herbert,Hamster,Campbell's Dwarf,15,Female,White,12/6/24,TRUE,4/3/25,A0077,Aaron Tucker,62,East William,1\
+P0078,Juan,Cat,Bengal,4,Female,Golden,9/19/24,FALSE,9/23/24,N/A,N/A,-1,N/A,0\
+P0079,Beth,Cat,Devon Rex,5,Female,Black,1/29/25,FALSE,2/6/25,N/A,N/A,-1,N/A,0\
+P0080,Gregory,Bird,Parakeet,5,Female,Golden,4/22/24,TRUE,7/1/24,A0080,Candice Gutierrez,48,Cookburgh,3\
+P0081,Heather,Bird,Conure,8,Female,Grey,11/19/23,TRUE,2/29/24,A0081,Dennis Anderson,75,New Brittanystad,3\
+P0082,Raymond,Dog,Golden Retriever,14,Female,Brown,8/13/23,TRUE,10/21/23,A0082,Robert Hooper,46,Lake Ryanmouth,3\
+P0083,Richard,Cat,Devon Rex,14,Male,White,10/2/23,TRUE,10/5/23,A0083,Mrs. Jennifer Espinoza MD,42,North Jennifer,5\
+P0084,Regina,Hamster,Syrian,2,Female,Mixed,2/25/24,TRUE,7/28/24,A0084,Ronald Reed,27,South Sherry,1\
+P0085,Calvin,Dog,Dachshund,13,Male,Mixed,2/15/25,TRUE,3/12/25,A0085,Mary Campbell,65,Port Amandafort,5\
+P0086,Christopher,Dog,Yorkshire Terrier,14,Male,White,9/9/23,TRUE,2/12/24,A0086,Marissa Tapia,27,East Johnland,4\
+P0087,John,Cat,Siamese,5,Female,Mixed,1/19/25,FALSE,2/17/25,N/A,N/A,-1,N/A,0\
+P0088,John,Bird,Budgerigar,7,Male,Brown,3/16/25,TRUE,3/30/25,A0088,Cody Knapp,50,New Gregoryland,5\
+P0089,Mark,Cat,Norwegian Forest Cat,12,Female,Mixed,7/1/24,TRUE,8/12/24,A0089,Anthony Morris,30,Campbellside,1\
+P0090,Jeffrey,Hamster,Korean,4,Female,Grey,9/25/24,FALSE,10/7/24,N/A,N/A,-1,N/A,0\
+P0091,Ashley,Bird,Cockatiel,2,Male,Golden,9/14/24,TRUE,9/15/24,A0091,Samantha Grimes,36,West Gary,1\
+P0092,Maria,Hamster,Korean,6,Female,Brown,4/25/25,FALSE,4/29/25,N/A,N/A,-1,N/A,0\
+P0093,Chelsea,Rabbit,English Angora,9,Female,Brown,6/17/24,TRUE,6/21/24,A0093,Mark Fuller,71,Lake Ana,2\
+P0094,Lucas,Cat,British Shorthair,3,Male,Golden,9/6/23,TRUE,10/8/23,A0094,Sierra Romero,75,South Stanley,5\
+P0095,Kelsey,Rabbit,Netherland Dwarf,2,Male,Spotted,3/26/24,FALSE,4/3/24,N/A,N/A,-1,N/A,0\
+P0096,Alexis,Rabbit,Dutch,13,Male,Brown,10/21/23,TRUE,1/3/24,A0096,Luis Brown,72,South Robertland,5\
+P0097,Heather,Rabbit,Lionhead,1,Male,White,10/27/24,TRUE,11/12/24,A0097,John Wolfe,48,Juliaburgh,3\
+P0098,Michael,Hamster,Winter White,3,Female,Golden,1/13/24,TRUE,2/29/24,A0098,Rebekah Shelton,74,Lake Tina,5\
+P0099,Travis,Cat,Maine Coon,9,Male,Spotted,12/1/23,FALSE,12/25/23,N/A,N/A,-1,N/A,0\
+P0100,Charles,Cat,Sphynx,7,Male,Brown,7/23/23,FALSE,8/21/23,N/A,N/A,-1,N/A,0\
+P0101,Kelsey,Dog,Poodle,8,Male,Brown,10/30/23,TRUE,1/3/24,A0101,Hannah Perez,63,Christopherview,3\
+P0102,Gregory,Rabbit,Lionhead,11,Male,Black,3/6/25,TRUE,6/18/25,A0102,Cheyenne Kaufman,38,East Jessica,1\
+P0103,Nathaniel,Bird,Conure,2,Female,Black,12/25/24,FALSE,12/31/24,N/A,N/A,-1,N/A,0\
+P0104,Paula,Bird,Lovebird,3,Female,Golden,1/7/24,TRUE,2/25/24,A0104,Brittany Mann,75,South Haroldstad,5\
+P0105,Angel,Dog,Bulldog,8,Female,Black,9/14/24,TRUE,11/5/24,A0105,Joseph Banks,37,South Christopher,4\
+P0106,Patricia,Hamster,Chinese,12,Male,Golden,3/23/25,FALSE,4/14/25,N/A,N/A,-1,N/A,0\
+P0107,Kimberly,Rabbit,Lionhead,4,Male,Black,5/3/25,TRUE,6/18/25,A0107,Margaret Webb,42,Lake Sean,2\
+P0108,Tammy,Dog,Boxer,15,Female,Mixed,5/14/24,TRUE,10/19/24,A0108,Jill Kelley,68,Vaughnport,1\
+P0109,Ann,Hamster,Roborovski,5,Male,Brown,7/29/23,TRUE,9/25/23,A0109,Michael Moreno,68,Houseville,3\
+P0110,Jennifer,Rabbit,Lionhead,12,Male,Black,6/24/24,TRUE,10/8/24,A0110,Jesse Todd,22,New Nicholas,0\
+P0111,Robert,Hamster,Winter White,1,Female,White,9/2/23,TRUE,1/19/24,A0111,Brenda Murray,23,North Sarah,1\
+P0112,Rebecca,Cat,Devon Rex,10,Male,Spotted,12/26/23,TRUE,6/5/24,A0112,Matthew White,73,Donaldview,4\
+P0113,Tiffany,Cat,Birman,9,Female,Black,12/15/24,FALSE,12/25/24,N/A,N/A,-1,N/A,0\
+P0114,Faith,Dog,Golden Retriever,10,Female,Spotted,2/12/25,FALSE,3/10/25,N/A,N/A,-1,N/A,0\
+P0115,Rachel,Rabbit,Mini Rex,4,Male,Brown,4/2/25,TRUE,6/1/25,A0115,Heather Hill,66,East Anthonyside,3\
+P0116,Nancy,Dog,Beagle,9,Male,Golden,12/4/23,FALSE,12/25/23,N/A,N/A,-1,N/A,0\
+P0117,Margaret,Bird,Lovebird,9,Male,Golden,3/17/24,TRUE,8/27/24,A0117,Rhonda Brown,41,South Teresa,4\
+P0118,Phillip,Rabbit,Lionhead,9,Male,Grey,3/3/24,TRUE,5/7/24,A0118,Cassandra Chang,62,West Francisberg,0\
+P0119,Bobby,Dog,French Bulldog,4,Female,Spotted,9/13/23,TRUE,11/8/23,A0119,Krista Cunningham,68,Baileyshire,5\
+P0120,Kathryn,Bird,Macaw,7,Male,Mixed,8/17/24,TRUE,1/8/25,A0120,Matthew Graham,27,Christopherview,0\
+P0121,Kimberly,Dog,Great Dane,1,Female,Grey,10/5/24,TRUE,2/4/25,A0121,Jennifer Richardson,72,Melindabury,0\
+P0122,Thomas,Cat,Persian,4,Female,Spotted,1/6/24,FALSE,1/27/24,N/A,N/A,-1,N/A,0\
+P0123,Richard,Rabbit,English Angora,9,Male,Black,5/28/24,TRUE,9/20/24,A0123,Mr. Roger Barrett,65,East Dawnburgh,2\
+P0124,Erin,Dog,Golden Retriever,3,Female,Black,9/22/24,FALSE,10/11/24,N/A,N/A,-1,N/A,0\
+P0125,Victoria,Cat,Persian,15,Male,Spotted,4/7/24,TRUE,8/9/24,A0125,Natalie King,55,New Rachelstad,2\
+P0126,Jesse,Hamster,Roborovski,3,Female,White,10/13/24,FALSE,11/2/24,N/A,N/A,-1,N/A,0\
+P0127,Michael,Dog,German Shepherd,4,Female,Mixed,2/19/24,TRUE,5/18/24,A0127,Nathan Becker,44,Port Lauriebury,1\
+P0128,Megan,Bird,Macaw,10,Female,Spotted,11/19/23,FALSE,12/17/23,N/A,N/A,-1,N/A,0\
+P0129,Matthew,Hamster,Russian Dwarf,8,Female,Golden,4/26/24,FALSE,5/5/24,N/A,N/A,-1,N/A,0\
+P0130,Brooke,Dog,Golden Retriever,5,Male,Grey,10/27/23,TRUE,12/17/23,A0130,Christine Owens,24,Stephenport,4\
+P0131,Michael,Cat,Sphynx,1,Female,Spotted,8/26/23,TRUE,2/14/24,A0131,Sarah Walker,24,Donnafort,4\
+P0132,Jessica,Cat,Birman,6,Female,Black,1/23/25,TRUE,6/18/25,A0132,Cathy Lyons,57,Aguilarberg,3\
+P0133,Carol,Dog,Siberian Husky,14,Female,Spotted,11/26/23,FALSE,12/16/23,N/A,N/A,-1,N/A,0\
+P0134,Elizabeth,Dog,Golden Retriever,6,Female,Golden,12/15/24,FALSE,12/24/24,N/A,N/A,-1,N/A,0\
+P0135,Heidi,Hamster,Syrian,14,Female,Spotted,4/21/24,FALSE,5/3/24,N/A,N/A,-1,N/A,0\
+P0136,Molly,Rabbit,Holland Lop,14,Female,White,8/25/24,TRUE,2/17/25,A0136,Adam Townsend,31,Allenchester,5\
+P0137,Richard,Cat,Scottish Fold,6,Female,Grey,11/23/24,TRUE,4/28/25,A0137,Patrick Hernandez,36,Dannyton,1\
+P0138,Michael,Dog,Boxer,3,Female,Mixed,1/14/24,FALSE,1/19/24,N/A,N/A,-1,N/A,0\
+P0139,Debbie,Rabbit,Holland Lop,12,Male,Brown,10/1/24,FALSE,10/12/24,N/A,N/A,-1,N/A,0\
+P0140,Melissa,Bird,Parakeet,4,Male,White,7/3/24,FALSE,7/24/24,N/A,N/A,-1,N/A,0\
+P0141,Connie,Dog,Shih Tzu,2,Male,Spotted,2/24/24,TRUE,4/6/24,A0141,Kathy Murray,52,North Diana,1\
+P0142,Austin,Dog,French Bulldog,4,Male,Golden,2/20/25,TRUE,6/18/25,A0142,Taylor Martin,25,Bradleyfort,5\
+P0143,Amy,Cat,Oriental Shorthair,9,Male,Spotted,8/16/23,TRUE,11/17/23,A0143,Philip Brown,23,Romerostad,0\
+P0144,Henry,Dog,French Bulldog,9,Female,Golden,4/19/25,FALSE,5/16/25,N/A,N/A,-1,N/A,0\
+P0145,Valerie,Cat,Devon Rex,2,Male,Mixed,6/26/24,TRUE,10/9/24,A0145,Matthew Green,29,Cortezmouth,0\
+P0146,Daniel,Rabbit,Lionhead,11,Female,Grey,12/7/23,FALSE,12/28/23,N/A,N/A,-1,N/A,0\
+P0147,Angela,Dog,Bulldog,4,Male,Spotted,1/12/24,TRUE,4/3/24,A0147,Crystal Crane,23,Johnsonmouth,1\
+P0148,Heather,Hamster,Korean,5,Female,White,7/14/23,TRUE,8/10/23,A0148,Donald Adams,67,Jasminetown,2\
+P0149,Michelle,Dog,Dachshund,10,Female,Grey,12/7/24,TRUE,12/12/24,A0149,Matthew Middleton,28,New Patrick,4\
+P0150,Jacqueline,Cat,Bengal,2,Female,Brown,5/28/25,FALSE,6/13/25,N/A,N/A,-1,N/A,0\
+P0151,Richard,Bird,Cockatoo,9,Male,Black,4/11/25,TRUE,6/18/25,A0151,Cynthia Richardson,56,Allenmouth,4\
+P0152,Rebecca,Rabbit,Dutch,6,Male,Mixed,1/16/24,TRUE,6/30/24,A0152,Stacey Bell,70,Port Stephenhaven,1\
+P0153,Roger,Cat,Sphynx,14,Male,Brown,5/26/24,FALSE,6/4/24,N/A,N/A,-1,N/A,0\
+P0154,Christopher,Hamster,Roborovski,7,Male,White,11/9/23,FALSE,11/29/23,N/A,N/A,-1,N/A,0\
+P0155,Lisa,Dog,Great Dane,10,Female,Golden,12/6/24,FALSE,12/13/24,N/A,N/A,-1,N/A,0\
+P0156,Megan,Rabbit,Dutch,2,Male,Grey,2/13/24,FALSE,3/1/24,N/A,N/A,-1,N/A,0\
+P0157,Jared,Hamster,Roborovski,11,Female,Mixed,8/12/24,TRUE,12/27/24,A0157,Whitney Gray,62,East Dennisborough,0\
+P0158,Cynthia,Cat,Siamese,2,Female,Brown,2/13/24,FALSE,3/7/24,N/A,N/A,-1,N/A,0\
+P0159,Jennifer,Hamster,Teddy Bear Hamster,9,Female,Golden,1/10/25,TRUE,1/13/25,A0159,Lisa Sanchez,36,East Hectorbury,2\
+P0160,Heidi,Bird,Amazon Parrot,6,Female,Spotted,4/18/25,TRUE,6/18/25,A0160,Kimberly Gross,39,North Sarahview,2\
+P0161,Angela,Hamster,Syrian,3,Female,Golden,11/7/24,TRUE,1/24/25,A0161,Christopher Johnson,71,Michaelaland,0\
+P0162,Stacy,Dog,Labrador Retriever,15,Male,White,7/27/24,TRUE,9/12/24,A0162,Colton Becker,45,Bergerville,1\
+P0163,Elizabeth,Cat,Norwegian Forest Cat,2,Female,Grey,12/17/23,FALSE,12/29/23,N/A,N/A,-1,N/A,0\
+P0164,Aaron,Hamster,Roborovski,12,Female,Brown,4/26/25,TRUE,6/18/25,A0164,Amanda Hall,25,Jasminefurt,1\
+P0165,Jason,Rabbit,Silver Marten,14,Female,Spotted,6/22/23,FALSE,7/20/23,N/A,N/A,-1,N/A,0\
+P0166,Amanda,Rabbit,Netherland Dwarf,4,Male,Brown,6/14/25,FALSE,6/29/25,N/A,N/A,-1,N/A,0\
+P0167,Alex,Hamster,Korean,3,Female,Mixed,2/9/25,TRUE,3/9/25,A0167,Natasha Porter,32,Stephensfurt,4\
+P0168,Kathy,Cat,Maine Coon,7,Female,Mixed,10/17/23,FALSE,10/23/23,N/A,N/A,-1,N/A,0\
+P0169,Heather,Rabbit,Mini Rex,12,Male,Grey,10/15/24,FALSE,11/1/24,N/A,N/A,-1,N/A,0\
+P0170,Alisha,Bird,Conure,1,Male,Black,1/29/24,FALSE,2/26/24,N/A,N/A,-1,N/A,0\
+P0171,Jessica,Rabbit,French Lop,6,Female,White,1/29/24,FALSE,2/13/24,N/A,N/A,-1,N/A,0\
+P0172,Tracy,Dog,Boxer,4,Male,White,6/2/25,TRUE,6/18/25,A0172,Kevin Mann,64,Laurenmouth,0\
+P0173,Brittany,Hamster,Syrian,15,Female,Black,12/1/23,TRUE,3/11/24,A0173,William Stuart,58,East Jessicaborough,2\
+P0174,Julie,Cat,Persian,2,Female,Grey,1/20/25,TRUE,1/22/25,A0174,Ashlee Davis,75,Lake Richard,4\
+P0175,Sarah,Bird,Macaw,5,Female,Grey,5/2/25,FALSE,5/18/25,N/A,N/A,-1,N/A,0\
+P0176,David,Cat,Siamese,15,Male,Golden,5/2/25,TRUE,6/18/25,A0176,John Johnson,25,New Stevenborough,3\
+P0177,Gloria,Rabbit,Flemish Giant,12,Female,Spotted,7/11/24,TRUE,7/31/24,A0177,Jessica Leon,32,Morrowfurt,2\
+P0178,Deborah,Cat,Ragdoll,2,Male,Brown,11/1/24,TRUE,11/10/24,A0178,Kevin Jones,59,New Stephanieville,4\
+P0179,Monica,Bird,Amazon Parrot,13,Male,Spotted,9/24/24,TRUE,11/26/24,A0179,Vincent Combs,58,Sandersfurt,5\
+P0180,Sarah,Dog,Golden Retriever,5,Female,Spotted,7/19/24,TRUE,1/10/25,A0180,Lori Davis,43,New Elijah,1\
+P0181,Joyce,Bird,Cockatiel,9,Male,White,2/12/25,TRUE,5/12/25,A0181,Donald Adams,30,Williamsbury,2\
+P0182,Allison,Hamster,Chinese,13,Female,Black,5/5/25,FALSE,5/21/25,N/A,N/A,-1,N/A,0\
+P0183,Margaret,Dog,Great Dane,13,Female,Black,10/8/23,TRUE,1/7/24,A0183,Sharon Clark,72,Wareshire,0\
+P0184,Christopher,Cat,Devon Rex,3,Male,Grey,5/31/24,TRUE,10/14/24,A0184,Ariel Johnson,37,New Cindy,4\
+P0185,Keith,Hamster,Russian Dwarf,7,Female,Golden,9/22/24,TRUE,2/24/25,A0185,Charles Torres,62,North Oliviastad,4\
+P0186,Kelly,Rabbit,Mini Rex,3,Male,Spotted,11/23/24,FALSE,12/9/24,N/A,N/A,-1,N/A,0\
+P0187,Cynthia,Dog,Great Dane,4,Female,Mixed,11/23/23,FALSE,12/11/23,N/A,N/A,-1,N/A,0\
+P0188,Michael,Cat,Ragdoll,14,Female,Brown,7/27/24,FALSE,8/7/24,N/A,N/A,-1,N/A,0\
+P0189,Sandra,Bird,Parakeet,2,Male,White,2/20/24,TRUE,6/17/24,A0189,Tracy Flores,48,Jaredland,4\
+P0190,Ashley,Bird,Lovebird,13,Female,Brown,10/14/24,FALSE,10/20/24,N/A,N/A,-1,N/A,0\
+P0191,Sharon,Rabbit,English Angora,6,Female,Grey,4/8/24,TRUE,9/15/24,A0191,Michael Thornton,30,Lake Christopher,5\
+P0192,Sandra,Rabbit,Lionhead,7,Female,White,1/21/25,TRUE,3/12/25,A0192,Diana Taylor,61,West Stevenfort,1\
+P0193,Cynthia,Hamster,European Hamster,2,Male,Black,9/5/24,FALSE,9/16/24,N/A,N/A,-1,N/A,0\
+P0194,David,Bird,Cockatiel,4,Male,White,10/3/24,TRUE,2/25/25,A0194,Sheryl Matthews,20,Blackchester,1\
+P0195,Natalie,Rabbit,Lionhead,14,Male,Brown,11/1/24,FALSE,11/17/24,N/A,N/A,-1,N/A,0\
+P0196,Melissa,Hamster,Chinese,8,Male,White,11/10/24,FALSE,11/28/24,N/A,N/A,-1,N/A,0\
+P0197,Ricky,Dog,Labrador Retriever,4,Female,Golden,4/9/25,FALSE,5/6/25,N/A,N/A,-1,N/A,0\
+P0198,Carly,Rabbit,Flemish Giant,5,Male,Spotted,2/2/24,FALSE,2/13/24,N/A,N/A,-1,N/A,0\
+P0199,Don,Dog,Great Dane,1,Male,Mixed,11/11/24,TRUE,12/25/24,A0199,Derek Martinez,25,South Michelle,1\
+P0200,Caleb,Bird,Canary,5,Male,Golden,10/16/24,FALSE,11/7/24,N/A,N/A,-1,N/A,0}
