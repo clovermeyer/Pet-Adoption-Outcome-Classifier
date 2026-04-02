@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a shelter animal will be adopted based on biological and environmental attributes.
 
-**Original work by Clover Meyer** — extended and restructured for GitHub.
+**Original work by Clover Meyer** — extended and restructured for GitHub from Google Colab.
 
 ---
 
