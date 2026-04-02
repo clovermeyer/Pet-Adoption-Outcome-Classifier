@@ -116,9 +116,9 @@ joblib
 ```
 pet-adoption-classifier/
 ├── data/
-│   └── adoption1.csv          ← place your dataset here
+│   └── adoption1.csv          
 ├── models/
-│   └── best_model_*.pkl       ← auto-generated
+│   └── best_model_*.pkl       
 ├── outputs/
 │   ├── eda_charts.png
 │   ├── cm_*.png
