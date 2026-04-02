@@ -346,7 +346,7 @@ def save_best_model(models: dict, results_df: pd.DataFrame, X_train, y_train) ->
 
 if __name__ == "__main__":
     # ── Change this path to match your local CSV location ──
-    DATA_PATH = "data/adoption1.csv"
+    DATA_PATH = "adoption1.csv"
 
     df = load_data(DATA_PATH)
 
